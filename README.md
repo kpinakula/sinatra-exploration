@@ -10,3 +10,6 @@
 Info about [Bundler](https://bundler.io/)
 Info about [Rspec(v3.11)](https://rspec.info/documentation/3.11/rspec-core/)
 
+# Running the web server
+
+Run `bundle exec ruby server.rb` to get the server running. Check the terminal for the port number. Visit the website that is being served at: http://localhost:`port-number`/ or http://127.0.0.1:`port-number`/
