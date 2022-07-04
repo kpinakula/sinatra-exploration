@@ -2,5 +2,5 @@ require 'sinatra'
 require 'sinatra/reloader' if development?
 
 get '/' do
-    'Hi'
+    '<h1>Hi</h1>'
 end
